@@ -1,5 +1,5 @@
 # projects# KeyLogger
-its a keylogger for windows which sends an email with all the keys logged. Written in c# using 
+It is a keylogger for windows which sends an email with all the keys logged. Written in c# using 
 visual studio 2015 community edition.
 if some can modify it for reading from config.xml file so that email and password can be set using this 
 file and also the time delay for each file.
